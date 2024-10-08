@@ -1,0 +1,70 @@
+const K ={
+    BOOKS:[
+        {
+            img:"src\assets\images\animate image2.jpg",
+            title:" Echoes of Ashenfall",
+            author:"Kofi",
+            review:"very good",
+            description:"In a world where magic is fading, a young scholar named Elara stumbles upon a forgotten artifact that holds the key to restoring it",
+
+        },
+        {
+            img:"src\assets\images\animate image2.jpg",
+            title:" Echoes of Ashenfall",
+            author:"kofi",
+            review:"very good",
+            description:"In a world where magic is fading, a young scholar named Elara stumbles upon a forgotten artifact that holds the key to restoring it",
+
+        },
+        {
+            img:"src\assets\images\animate image2.jpg",
+            title:" Echoes of Ashenfall",
+            author:"kofi",
+            review:"very good",
+            description:"In a world where magic is fading, a young scholar named Elara stumbles upon a forgotten artifact that holds the key to restoring it",
+
+        },
+        {
+            img:"src\assets\images\animate image2.jpg",
+            title:" Echoes of Ashenfall",
+            author:"kofi",
+            review:"very good",
+            description:"In a world where magic is fading, a young scholar named Elara stumbles upon a forgotten artifact that holds the key to restoring it",
+
+        },
+        {
+            img:"src\assets\images\animate image2.jpg",
+            title:" Echoes of Ashenfall",
+            author:"kofi",
+            review:"very good",
+            description:"In a world where magic is fading, a young scholar named Elara stumbles upon a forgotten artifact that holds the key to restoring it",
+
+        },
+        {
+            img:"src\assets\images\animate image2.jpg",
+            title:" Echoes of Ashenfall",
+            author:"kofi",
+            review:"very good",
+            description:"In a world where magic is fading, a young scholar named Elara stumbles upon a forgotten artifact that holds the key to restoring it",
+
+        },
+        {
+            img:"src\assets\images\animate image2.jpg",
+            title:" Echoes of Ashenfall",
+            author:"kofi",
+            review:"very good",
+            description:"In a world where magic is fading, a young scholar named Elara stumbles upon a forgotten artifact that holds the key to restoring it",
+
+        },
+        {
+            img:"src\assets\images\animate image2.jpg",
+            title:" Echoes of Ashenfall",
+            author:"kofi",
+            review:"very good",
+            description:"In a world where magic is fading, a young scholar named Elara stumbles upon a forgotten artifact that holds the key to restoring it",
+
+        },
+    ]
+
+};
+export default K;

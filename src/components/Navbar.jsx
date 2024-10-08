@@ -6,8 +6,8 @@ function Navbar() {
     <div className="bg-white pt-0 h-[10%]">
     <div className="flex w-[80%] items-center gap-x-8 justify-around pl-20">
      <div className="flex gap-x-2  items-center  ">
-      <span><img className="w-[35%]" src="src\assets\images\Booknest__1_-removebg-preview.png" alt="Logo"/></span></div>
-     <div className="flex gap-x-6 h-20px w-[40%] pl-20">
+      <span><img className="w-[35%]" src="src\assets\images\pagelogo.png" alt="Logo"/></span></div>
+     <div className="flex gap-x-6 w-[54%] pl-[3rem]">
      <div><Link to="#" className="text-[#3AB4FA]">Home</Link></div>
      <div><Link to="/aboutUs" className="text-[#3AB4FA]">About Us</Link></div>
      <div><Link to="/contactUs" className="text-[#3AB4FA]">Contact Us</Link></div>
