@@ -4,6 +4,8 @@ import './App.css'
 import BookList from './pages/bookList'
 import AddBook from './pages/addBook'
 import BookDetails from './pages/bookDetails'
+import AboutUs from './pages/aboutUs'
+import Contact from './pages/contactUs'
 
 function App() {
 const router = createBrowserRouter([
@@ -18,6 +20,14 @@ const router = createBrowserRouter([
   {
     path:"/books/:id",
     element:<BookDetails />
+  },
+  {
+    path:"/aboutUs",
+    element:<AboutUs />
+  },
+  {
+    path:"/contactUs",
+    element:<Contact />
   },
 
 
